@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CrySense: Decoding the Language of Baby Cries👶
 
 [![GitHub contributors](https://img.shields.io/github/contributors/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/graphs/contributors)
@@ -98,3 +99,9 @@ Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
 </a>
 
 Shoutout to Contrib rocks for the above contributor's badge!
+=======
+GitHub’s content here
+>>>>>>> origin/main
+# CradleEye
+This is my smart infant monitoring system.
+>>>>>>> 701ca96dc42c1558faab3a7667ba2610dd7a9c44
